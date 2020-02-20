@@ -17,5 +17,10 @@ GHost - Git Reset
     git commit -m
     ...
 
+    ... x3
+    git add *
+    git commit -m
+    ...
+
     
 
