@@ -18,3 +18,4 @@ GHost
         ...
         git checkout develop
         git merge --no-ff {nueva_rama}
+        git push
